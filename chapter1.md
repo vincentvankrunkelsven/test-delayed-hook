@@ -11,7 +11,7 @@ attachments :
 //player.vimeo.com/video/154783078
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1
-## A really bad movie
+## A really bad is this working?
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
